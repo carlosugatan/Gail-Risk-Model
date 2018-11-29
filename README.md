@@ -9,3 +9,5 @@ Based off [original Gail model](https://www.ncbi.nlm.nih.gov/pubmed/2593165?dopt
 
 Risk model code is still being testing for accuracy. 
 
+## Preview
+![Gail Risk Model Preview](https://github.com/carlosugatan/GailRiskModel/blob/master/GailRiskDemo.gif)
